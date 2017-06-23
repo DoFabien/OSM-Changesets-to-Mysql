@@ -1,0 +1,19 @@
+{
+  "name": "changesets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/inside": "^3.14.0",
+    "mysql": "^2.13.0",
+    "request": "^2.79.0",
+    "sync-request": "^4.0.1",
+    "turf-point": "^2.0.1",
+    "xml2json": "^0.11.0"
+  }
+}
